@@ -48,6 +48,7 @@ Feature importance analysis highlighted travel type, customer loyalty status, an
 ├── outputs/         # Evaluation results and visualizations
 └── README.md        # Project documentation
 ```
+
 ##Authors
 JING TAN 
 Aleksandra Osińska
