@@ -49,7 +49,7 @@ Feature importance analysis highlighted travel type, customer loyalty status, an
 └── README.md        # Project documentation
 ```
 
-##Authors
+## Authors ##
 JING TAN 
 Aleksandra Osińska
 Laura Tabaczyńska
